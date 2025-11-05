@@ -1,4 +1,4 @@
-# 🚗 **Car Accident Analysis Dashboard (Power BI)**  
+# 🚗 **Road Accident Analysis Dashboard (Power BI)**  
 
 A **Power BI dashboard** designed to analyze and visualize **car accident data** to identify patterns, high-risk zones, and contributing factors.  
 
